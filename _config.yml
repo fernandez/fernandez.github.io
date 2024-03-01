@@ -1,1 +1,3 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+title: Hi! I'm Alex Fernandez
+description: I am a Technical Support Engineer, currently at GitHub.
